@@ -1,0 +1,14 @@
+epochs = 10
+train   : 0.9927
+valid   : 0.9903
+test    : 0.9897
+
+epochs = 8
+train   : 0.9969
+valid   : 0.9964
+test    : 0.9947
+
+epochs = 7
+train   : 0.9959 - 과소적합
+valid   : 0.9961
+test    : 0.9917
